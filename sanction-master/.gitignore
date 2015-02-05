@@ -1,0 +1,12 @@
+tags
+/build
+/docs/_build
+.coverage
+.env
+.env3
+*.egg-info
+*.pyc
+*.swp
+/dist
+*.stackdump
+__pycache__
